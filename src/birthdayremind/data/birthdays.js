@@ -2,37 +2,37 @@
 const birthdays = [
   {
     id: 1,
-    name: "Bertie Yates",
+    name: "Rahul Singh",
     dob: "1997-10-09",
     image: "https://i.pravatar.cc/150?img=47",
   },
   {
     id: 2,
-    name: "Hester Hogan",
+    name: "Hasan Ali",
     dob: "1994-10-12",
     image: "https://i.pravatar.cc/150?img=44",
   },
   {
     id: 3,
-    name: "Larry Little",
+    name: "Manoj Singh",
     dob: "1990-10-15",
     image: "https://i.pravatar.cc/150?img=12",
   },
   {
     id: 4,
-    name: "Sean Walsh",
+    name: "Dolly don",
     dob: "2002-11-05",
     image: "https://i.pravatar.cc/150?img=13",
   },
   {
     id: 5,
-    name: "Lola Gardner",
+    name: "Kartik Kumar",
     dob: "1998-12-20",
     image: "https://i.pravatar.cc/150?img=49",
   },
   {
     id: 6,
-    name: "Sudesh Gowda",
+    name: "Kushal Kaushik",
     dob: "2000-10-09",
     image: "https://i.pravatar.cc/150?img=11",
   },

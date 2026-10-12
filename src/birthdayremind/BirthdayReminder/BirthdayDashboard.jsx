@@ -1,4 +1,3 @@
-
 import React from "react";
 import BirthdayList from "./BirthdayList";
 import { formatBirthday } from "../utils/birthdayUtils";
